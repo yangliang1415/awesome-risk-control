@@ -2,7 +2,7 @@
 
 
 
-关于风控的理解。所谓风控，即`风险` `控制`。`风险`即产品中存在的分险点，例如被薅羊毛，被套现、刷单等交易侧，UGC 侧。`控制` 即是要识别和防控这些风险，依赖于数据特征和规则模型。
+所谓风控，即`风险` `控制`。`风险`即产品中存在的分险点，例如薅羊毛，套现、刷单等；UGC 风险。`控制` 即是要识别和防控这些风险，而识别强烈依赖于数据特征和规则模型。
 
 
 
@@ -19,6 +19,8 @@
 https://tech.meituan.com/risk-control-system-experience-sharing.html
 
 https://tech.meituan.com/online-risk-control.html
+
+携程：https://mp.weixin.qq.com/s/muufqznNNVidPgamlcurCQ
 
 
 
@@ -46,3 +48,4 @@ SACC 2016 互联网安全和风控体系 会议分享(京东、爱奇艺、美�
 
 拼多多：https://www.lagou.com/jobs/3458578.html?source=position_rec&i=position_rec-2
 
+橙鹰
