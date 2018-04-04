@@ -6,8 +6,6 @@
 
 
 
-
-
 各公司的风控场景及解决方案
 
 小米：https://toutiao.io/posts/c355w5/preview
@@ -49,3 +47,19 @@ SACC 2016 互联网安全和风控体系 会议分享(京东、爱奇艺、美�
 拼多多：https://www.lagou.com/jobs/3458578.html?source=position_rec&i=position_rec-2
 
 橙鹰
+
+
+
+```
+ref:https://www.zhihu.com/question/20669015
+风险分析、预警、控制
+账户风险监控
+交易风险监控
+反洗钱监控
+反盗卡监控
+反套现监控
+商户违规监控
+
+https://www.kaitao.cn/article/20180112174620.htm
+```
+
