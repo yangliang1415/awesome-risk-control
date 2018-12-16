@@ -19,7 +19,7 @@ TODO
 
 `控制` 即是要 `识别`   `预防`  ` 控制` 这些风险。识别强烈依赖于 `数据特征` 和 `规则模型`
 
-
+TODO：风险点梳理，利益点和风控诉求
 
 # 二、如何风控
 
@@ -37,9 +37,11 @@ TODO
 
 ## 规则模型
 
-
+TODO：规则引擎；算法模型
 
 ## 一般架构
+
+TODO：架构大图，系统关系
 
 风控接入
 
@@ -65,7 +67,7 @@ TODO
 
 携程：https://mp.weixin.qq.com/s/muufqznNNVidPgamlcurCQ
 
-
+TODO：资料搬到本地，防止链接失效等
 
 # 三、风控圈子
 
@@ -84,6 +86,8 @@ SACC 2016 互联网安全和风控体系 会议分享(京东、爱奇艺、美�
 
 
 # 四、风控相关招聘
+
+TODO: 分为架构和算法，总结招聘要求所需技能点
 
 拼多多：https://www.lagou.com/jobs/3458578.html?source=position_rec&i=position_rec-2
 
