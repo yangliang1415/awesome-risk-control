@@ -304,3 +304,6 @@ level3 言简意赅点说
 支付宝如何识别骗子：https://www.zhihu.com/question/20669015
 
 美团风控架构设计：https://tech.meituan.com/2017/01/13/risk-control-system-experience-sharing.html
+
+risk-management-note：https://github.com/WalterInSH/risk-management-note
+
